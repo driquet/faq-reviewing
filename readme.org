@@ -1,0 +1,19 @@
+Outil : Foire Aux Question pour le Reviewing
+* Basé sur Github
+** Repo publique
+** Génération de pages (version compilée du site)
+* Site web
+** Avant propos (sur toutes les pages)
+*** Présentation de qui je suis, comment me contacter, pourquoi je fais ça
+** Page principale
+*** Listing des éléments, classés par catégorie, puis par titre
+*** Listing des tags
+** Page par catégorie
+** Page par tag
+* Fichiers
+** restructuredtext
+** Contenu
+*** Titre
+*** Catégorie
+*** Tags
+*** Contenu
