@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/all.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Ajouter une image dans la description</title><link href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Création, modification d'une cache</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/creation-modification-dune-cache.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Ajouter une image dans la description</title><link href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette étape est facultative. Elle permet de stocker sur les serveurs de
 geocaching.com votre image. Si votre image est déjà en ligne (autrement dit,
@@ -31,51 +31,7 @@ Plus d'informations sur la page de l'article "&lt;a href="http://driquet.github.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html"&gt;Ajouter une image dans la description&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=79"&gt;HTML In Geocache Descriptions&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Le reviewer ne répond pas</title><link href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/le-reviewer-ne-repond-pas.html</id><summary type="html">&lt;h3&gt;Délai de publication d'une cache&lt;/h3&gt;
-&lt;p&gt;Chaque cache soumise à la publication est étudiée par un reviewer bénévole.
-Étant donné la charge de travail que cela représente (50 000 nouvelles caches en
-2015 par exemple), le délai de premier examen de votre cache est fixé à 7 jours
-une fois que votre cache est soumise à la publication.&lt;/p&gt;
-&lt;h3&gt;Silence radio du reviewer&lt;/h3&gt;
-&lt;p&gt;Parfois, le reviewer ne répond pas. Il y plusieurs raisons possibles à cela :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;le reviewer vous a posé une question et attend votre réponse ;&lt;/li&gt;
-&lt;li&gt;le reviewer a oublié de mettre votre cache en suivi et n'est donc pas averti
-  des nouvelles &lt;em&gt;reviewer notes&lt;/em&gt; ajoutées sur la page ;&lt;/li&gt;
-&lt;li&gt;le reviewer n'est actuellement pas disponible.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Il vous est alors possible, dans le mesure du raisonnable, d'envoyer un message
-à votre reviewer pour savoir où en est la publication de votre cache. N'oubliez
-pas que nous sommes bénévoles, faisez donc preuve de patience.&lt;/p&gt;
-&lt;h3&gt;Voir aussi&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="{filename}/submit_cache.md"&gt;Soumettre une cache à la publication&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="{filename}/communication_reviewer.md"&gt;Communication avec le reviewer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=81"&gt;My geocache has not been
-  reviewed&lt;/a&gt; (help
-  center)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://project-gc.com/Statistics/Overview"&gt;Statistiques de publication de
-  caches&lt;/a&gt; (Project-GC)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
-&lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
-Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
-récepteur. Cela permet de localiser une personne suivant sa latitude et sa
-longitude selon des axes repères, tel que l'équateur.&lt;/p&gt;
-&lt;p&gt;De nombreux systèmes de coordonnées existent ; ici sont listés les formats de
-coordonnées supportés par le site geocaching.com.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;DD (Degrés Décimaux) : dd°ddddd&lt;/li&gt;
-&lt;li&gt;GPS : ddd° mm.mmmm&lt;/li&gt;
-&lt;li&gt;DMS (Degrés Minutes Secondes) : dd°mm'ss.sss"&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Voir aussi&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=207"&gt;Convert Decimal Coordinates to DDD MM.MMM (help
-  center)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://boulter.com/gps/"&gt;Boulter (Convertisseur en ligne)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette méthode revient à modifier la position de l'icône de la cache sur la
 carte. Pour les caches de type mystère, multi, wherigo, etc,. voir la
@@ -110,10 +66,7 @@ cache satisfait encore les conditions de proximité.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.geocaching.com/about/guidelines.aspx#cachesaturation"&gt;Les éléments physiques des différentes géocaches doivent être à au moins 0,10
   miles ou 161 mètres l'un de l'autre&lt;/a&gt; (guidelines)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée</title><link href="http://driquet.github.io/faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html</id><summary type="html">&lt;h3&gt;Voir aussi&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="{filename}/appeals.md"&gt;Faire appel de la décision&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="divers"></category><category term="coordonnées"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
+&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
 imprécision des coordonnées d'une cache. Voici quelques astuces pour relever les
 coordonnées de vos caches.&lt;/p&gt;
 &lt;h3&gt;Relever des coordonnées&lt;/h3&gt;
