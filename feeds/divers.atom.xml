@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Divers</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/divers.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée</title><link href="http://driquet.github.io/faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html</id><summary type="html">&lt;h3&gt;Voir aussi&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Divers</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/divers.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
+&lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
+Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
+récepteur. Cela permet de localiser une personne suivant sa latitude et sa
+longitude selon des axes repères, tel que l'équateur.&lt;/p&gt;
+&lt;p&gt;De nombreux systèmes de coordonnées existent ; ici sont listés les formats de
+coordonnées supportés par le site geocaching.com.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="{filename}/appeals.md"&gt;Faire appel de la décision&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="divers"></category><category term="coordonnées"></category></entry></feed>
+&lt;li&gt;DD (Degrés Décimaux) : dd°ddddd&lt;/li&gt;
+&lt;li&gt;GPS : ddd° mm.mmmm&lt;/li&gt;
+&lt;li&gt;DMS (Degrés Minutes Secondes) : dd°mm'ss.sss"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Voir aussi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=207"&gt;Convert Decimal Coordinates to DDD MM.MMM (help
+  center)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://boulter.com/gps/"&gt;Boulter (Convertisseur en ligne)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="coordonnées"></category></entry></feed>

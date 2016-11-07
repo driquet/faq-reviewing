@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Publication d'une cache</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/publication-dune-cache.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Le reviewer ne répond pas</title><link href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/le-reviewer-ne-repond-pas.html</id><summary type="html">&lt;h3&gt;Délai de publication d'une cache&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Publication d'une cache</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/publication-dune-cache.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Communication avec le reviewer</title><link href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/communication-avec-le-reviewer.html</id><summary type="html">&lt;h3&gt;Avant la soumission de votre cache&lt;/h3&gt;
+&lt;p&gt;Dans le processus de publication d'une cache, il vous est possible de poster une
+&lt;em&gt;Reviewer Note&lt;/em&gt;, afin d'expliquer votre projet de cache. Profitez-en pour
+détailler l'emplacement de votre boite, la méthode de résolution de votre cache
+mystère, etc.&lt;/p&gt;
+&lt;p&gt;En dehors d'une cache, il vous est possible de contacter par mail un reviewer
+pour déterminer si votre projet de cache est publiable.&lt;/p&gt;
+&lt;h3&gt;Après la soumission de votre cache&lt;/h3&gt;
+&lt;p&gt;Une fois que votre cache est soumise à la publication, un volontaire va examiner
+votre cache. S'il désire plus d'informations, il va vous demander davantage
+d'informations. Cette discussion se fait au travers des &lt;em&gt;Reviewer Notes&lt;/em&gt;. Ces
+notes sont automatiquement cachées une fois la cache publiée.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note 1 : N'envoyez pas de mail à ce niveau de la publication. Discuter au
+travers des &lt;em&gt;Reviewer Notes&lt;/em&gt; permet au reviewer de centraliser toute la
+discussion autour d'une cache au même endroit, ce qui lui fait gagner du
+temps.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pour poster une &lt;em&gt;Reviewer Note&lt;/em&gt;, il faut cliquer sur "&lt;em&gt;Enregistrer votre
+visite&lt;/em&gt;" dans l'encadré en haut à droite et sélectionner "&lt;em&gt;Post a Reviewer
+Note&lt;/em&gt;".&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note 2 : N'éditez pas les &lt;em&gt;Reviewer Notes&lt;/em&gt;, car les reviewers ne sont notifiés
+qu'à la création de celles-ci !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Après la publication de votre cache&lt;/h3&gt;
+&lt;p&gt;Une fois la cache publiée, la reviewer ne suit plus du tout la cache et la
+création de &lt;em&gt;Reviewer Note&lt;/em&gt; n'est plus possible. En cas de problème sur une
+cache, contactez le reviewer qui s'est chargé de la publication (voir la
+première note de la cache).&lt;/p&gt;
+&lt;h3&gt;Contacter par mail le reviewer&lt;/h3&gt;
+&lt;p&gt;Dans le processus de publication, nous vous conseillons de contacter le reviewer
+au travers de &lt;em&gt;Reviewer Note&lt;/em&gt;. Cela facilite le suivi d'une cache. Une fois la
+cache publiée, contactez directement le reviewer qui s'est chargé de la
+publication.&lt;/p&gt;
+&lt;h3&gt;Voir aussi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="{filename}/submit_cache.md"&gt;Soumettre une cache à la publication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html"&gt;Le reviewer ne répond pas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=74"&gt;Working with Reviewer: Communication&lt;/a&gt; (help center)&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Faire appel de la décision</title><link href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/faire-appel-de-la-decision.html</id><summary type="html">&lt;h3&gt;Cache ne respectant pas les guidelines&lt;/h3&gt;
+&lt;p&gt;Lors du processus du publication d'une cache, le reviewer peut être amené à
+refuser votre projet de cache. Si cela arrive, ce dernier va vous expliquer
+pourquoi, en s'appuyant sur les guidelines.&lt;/p&gt;
+&lt;p&gt;À ce stade de la publication, le reviewer ne peut procéder à la publication de
+votre cache, car il est mandaté pour appliquer à la lettre les règles fixées par
+Groundspeak. C'est donc à Groundspeak de décider si votre projet est une
+exception à la règle et non au reviewer.&lt;/p&gt;
+&lt;p&gt;Pour cela, nous vous invitons à prendre contact avec Groundspeak pour qu'ils se
+chargent de décider de la possibilité ou non de publier votre cache.&lt;/p&gt;
+&lt;h3&gt;Faire appel&lt;/h3&gt;
+&lt;p&gt;Avant de faire appel, essayez de trouver avec le reviewer une solution pour
+rendre votre cache publiable. Ce dernier a été nommé de part sa connaissance
+poussée du jeu et des guidelines. Quand un appel se présente, il est rare que
+Groundspeak fasse une exception, il serait donc plus rapide de modifier votre
+cache pour qu'elle soit en accord avec les guidelines.&lt;/p&gt;
+&lt;p&gt;Pour faire appel, envoyez un email à Groundspeak en passant par cette page :
+&lt;a href="http://support.groundspeak.com//index.php?pg=request"&gt;Help center&lt;/a&gt;, en
+catégorisant le message comme &lt;em&gt;Appeals&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Dans votre message, donnez le plus d'informations possible :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;le nom de votre compte geocaching ;&lt;/li&gt;
+&lt;li&gt;le code GC de la cache ;&lt;/li&gt;
+&lt;li&gt;le nom de la cache ;&lt;/li&gt;
+&lt;li&gt;la localisation de la cache ;&lt;/li&gt;
+&lt;li&gt;le nom du reviewer ;&lt;/li&gt;
+&lt;li&gt;la raison du désaccord et pourquoi vous pensez que votre cache devrait être
+  publiée dans l'état.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Voir aussi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html"&gt;Faire appel de la décision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html"&gt;Communication avec le reviewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=476"&gt;Submit an appeal&lt;/a&gt; (help center)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=74"&gt;Working with Reviewer: Communication&lt;/a&gt; (help center)&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category><category term="Groundspeak"></category></entry><entry><title>Le reviewer ne répond pas</title><link href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/le-reviewer-ne-repond-pas.html</id><summary type="html">&lt;h3&gt;Délai de publication d'une cache&lt;/h3&gt;
 &lt;p&gt;Chaque cache soumise à la publication est étudiée par un reviewer bénévole.
 Étant donné la charge de travail que cela représente (50 000 nouvelles caches en
 2015 par exemple), le délai de premier examen de votre cache est fixé à 7 jours
@@ -10,37 +85,37 @@ une fois que votre cache est soumise à la publication.&lt;/p&gt;
 &lt;li&gt;le reviewer vous a posé une question et attend votre réponse ;&lt;/li&gt;
 &lt;li&gt;le reviewer a oublié de mettre votre cache en suivi et n'est donc pas averti
   des nouvelles &lt;em&gt;reviewer notes&lt;/em&gt; ajoutées sur la page ;&lt;/li&gt;
+&lt;li&gt;votre cache est désactivée et le reviewer ne perçoit plus la cache ;&lt;/li&gt;
 &lt;li&gt;le reviewer n'est actuellement pas disponible.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Il vous est alors possible, dans le mesure du raisonnable, d'envoyer un message
 à votre reviewer pour savoir où en est la publication de votre cache. N'oubliez
-pas que nous sommes bénévoles, faisez donc preuve de patience.&lt;/p&gt;
+pas que nous sommes bénévoles, faites donc preuve de patience.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="{filename}/submit_cache.md"&gt;Soumettre une cache à la publication&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="{filename}/communication_reviewer.md"&gt;Communication avec le reviewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html"&gt;Communication avec le reviewer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=81"&gt;My geocache has not been
   reviewed&lt;/a&gt; (help
   center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://project-gc.com/Statistics/Overview"&gt;Statistiques de publication de
   caches&lt;/a&gt; (Project-GC)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
-&lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
-Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
-récepteur. Cela permet de localiser une personne suivant sa latitude et sa
-longitude selon des axes repères, tel que l'équateur.&lt;/p&gt;
-&lt;p&gt;De nombreux systèmes de coordonnées existent ; ici sont listés les formats de
-coordonnées supportés par le site geocaching.com.&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée</title><link href="http://driquet.github.io/faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-la-mienne-a-deja-ete-publiee.html</id><summary type="html">&lt;p&gt;Il arrive que parfois une cache n'est pas publiable. Dans ces cas là, le
+reviewer va vous expliquer pourquoi en s'appuyant sur les guidelines. Cette
+décision peut vous sembler incohérente, car vous avez rencontré une cache
+similaire. Ce cas de figure peut se présenter dans plusieurs situations :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;DD (Degrés Décimaux) : dd°ddddd&lt;/li&gt;
-&lt;li&gt;GPS : ddd° mm.mmmm&lt;/li&gt;
-&lt;li&gt;DMS (Degrés Minutes Secondes) : dd°mm'ss.sss"&lt;/li&gt;
+&lt;li&gt;la cache a été modifiée après la publication, de ce fait le reviewer n'est
+  tout simplement pas au courant ;&lt;/li&gt;
+&lt;li&gt;la cache a été publiée avant la modification des guidelines qui aurait rendu
+  cette même cache non publiable.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Pour ce dernier cas, on parle de clause d'antériorité, qui est attribuée de facto
+lorsqu'il y a un changement de guidelines.&lt;/p&gt;
+&lt;p&gt;Dans tous les cas, le reviewer applique à la lettre les guidelines et ne peut
+pas faire d'exception. N'hésitez pas à demander conseil à ce dernier pour
+trouver une autre configuration qui serait acceptable vis-à-vis des guidelines.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=207"&gt;Convert Decimal Coordinates to DDD MM.MMM (help
-  center)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://boulter.com/gps/"&gt;Boulter (Convertisseur en ligne)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry></feed>
+&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html"&gt;Faire appel de la décision&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category><category term="guidelines"></category></entry></feed>

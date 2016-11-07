@@ -34,7 +34,7 @@ Plus d'informations sur la page de l'article "&lt;a href="http://driquet.github.
 &lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette méthode revient à modifier la position de l'icône de la cache sur la
-carte. Pour les caches de type mystère, multi, wherigo, etc,. voir la
+carte. Pour les caches de type mystère, multi, wherigo, etc., voir la
 prochaine section.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4&gt;Cache non publiée&lt;/h4&gt;
@@ -46,6 +46,10 @@ section "Coordonnées" et modifiez vos coordonnées.&lt;/p&gt;
 visite&lt;/em&gt;" et dans le champ "&lt;em&gt;Type de log&lt;/em&gt;", sélectionnez "&lt;em&gt;Update Coordinates&lt;/em&gt;".
 Indiquez les nouvelles coordonnées et envoyez le log.&lt;/p&gt;
 &lt;h3&gt;Modifier les coordonnées d'un waypoint&lt;/h3&gt;
+&lt;p&gt;Pour modifier les coordonnées d'un waypoint, il vous faut cliquer sur
+"&lt;em&gt;Waypoints&lt;/em&gt;" dans le menu en haut à gauche de la page de cache. Une fois sur la
+page des waypoints, il vous suffit de cliquer sur l'icône d'édition et de
+renseigner les nouvelles coordonnées.&lt;/p&gt;
 &lt;h3&gt;Intervention du reviewer&lt;/h3&gt;
 &lt;p&gt;Il vous est parfois impossible de modifier les coordonnées de votre cache. Par
 exemple, parce qu'il s'agit d'une cache de type event (ou assimilé), ou
@@ -66,6 +70,10 @@ cache satisfait encore les conditions de proximité.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.geocaching.com/about/guidelines.aspx#cachesaturation"&gt;Les éléments physiques des différentes géocaches doivent être à au moins 0,10
   miles ou 161 mètres l'un de l'autre&lt;/a&gt; (guidelines)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=61"&gt;How do I update coordinates for my
+  geocache?&lt;/a&gt; (help
+  center)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=72"&gt;Edit, add, and delete waypoints&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
 imprécision des coordonnées d'une cache. Voici quelques astuces pour relever les
 coordonnées de vos caches.&lt;/p&gt;
@@ -80,7 +88,7 @@ coordonnées de vos caches.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;relever plusieurs fois les coordonnées ;&lt;/li&gt;
 &lt;li&gt;s'éloigner de l'emplacement avec le récepteur et revenir ;&lt;/li&gt;
-&lt;li&gt;faire des relevés à des jours/conditions météos différents ;&lt;/li&gt;
+&lt;li&gt;faire des relevés à des jours/conditions météo différents ;&lt;/li&gt;
 &lt;li&gt;retenir comme coordonnées finales une moyenne des valeurs relevées.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Des GPS de randonnées proposent même des fonctions de relevés de coordonnées
