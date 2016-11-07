@@ -11,6 +11,7 @@ différentes catégories.
 * Les caches de vacances
 
 ### Publication d'une cache
+* [Mon idée de cache est-elle publiable ?]({filename}/publishable_cache.md)
 * [Soumettre une cache à la publication]({filename}/submit_cache.md)
 * Soumettre une série de caches
 * Soumettre un event à la publication
@@ -20,7 +21,7 @@ différentes catégories.
 * Les différents types de waypoints
 * Conflit de proximité entre différents éléments physiques
 * Les emplacements à éviter
-* Faire appel de la décision
+* [Faire appel de la décision]({filename}/appeals.md)
 * [Le reviewer ne répond pas]({filename}/silent_reviewer.md)
 * [Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée]({filename}/refusal_similar_cache.md)
 
@@ -32,3 +33,4 @@ différentes catégories.
 
 ### Divers
 * [Les formats de coordonnées]({filename}/coordinates_format.md)
+* Qui sont les reviewers ? Comment le devenir ?

@@ -17,7 +17,7 @@ Pour obtenir des coordonnées plus précises, vous pouvez :
 
 * relever plusieurs fois les coordonnées ;
 * s'éloigner de l'emplacement avec le récepteur et revenir ;
-* faire des relevés à des jours/conditions météos différents ;
+* faire des relevés à des jours/conditions météo différents ;
 * retenir comme coordonnées finales une moyenne des valeurs relevées.
 
 Des GPS de randonnées proposent même des fonctions de relevés de coordonnées

@@ -1,7 +1,7 @@
 Title: Les formats de coordonnées
 Date: 2016-10-05 12:00
-Category: Publication d'une cache
-Tags: reviewer
+Category: Divers
+Tags: coordonnées
 
 Notre loisir se base sur la technologie
 [GPS](https://fr.wikipedia.org/wiki/Global_Positioning_System) (Global

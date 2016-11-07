@@ -15,11 +15,12 @@ Parfois, le reviewer ne répond pas. Il y plusieurs raisons possibles à cela :
 * le reviewer vous a posé une question et attend votre réponse ;
 * le reviewer a oublié de mettre votre cache en suivi et n'est donc pas averti
   des nouvelles *reviewer notes* ajoutées sur la page ;
+* votre cache est désactivée et le reviewer ne perçoit plus la cache ;
 * le reviewer n'est actuellement pas disponible.
 
 Il vous est alors possible, dans le mesure du raisonnable, d'envoyer un message
 à votre reviewer pour savoir où en est la publication de votre cache. N'oubliez
-pas que nous sommes bénévoles, faisez donc preuve de patience.
+pas que nous sommes bénévoles, faites donc preuve de patience.
 
 
 ### Voir aussi
