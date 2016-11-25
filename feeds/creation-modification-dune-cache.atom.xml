@@ -26,9 +26,31 @@ Plus d'informations sur la page de l'article "&lt;a href="http://driquet.github.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=59"&gt;Display an Image in a Geocache Description&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="image"></category></entry><entry><title>Éditer la description d'une cache</title><link href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;h3&gt;Résumé&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="création"></category><category term="image"></category><category term="html"></category></entry><entry><title>Éditer la description d'une cache</title><link href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
+possible de formater votre texte en HTML, de manière à le rendre plus lisible.
+Malheureusement, l'éditeur qui vous permet de formater la description n'est
+disponible qu'a là création de la cache.&lt;/p&gt;
+&lt;p&gt;Plutôt que d'apprendre l'HTML (bien que les bases ne sont pas complexes à
+saisir), vous pouvez utiliser des éditeurs HTML qui vous facilitent l'édition de
+la description. De nombreux outils existent, à installer sur votre poste ou
+directement dans votre navigateur.&lt;/p&gt;
+&lt;p&gt;Par exemple, l'éditeur en ligne de site &lt;a href="http://france-geocaching.fr/forum/editor.php"&gt;France
+Geocaching&lt;/a&gt; permet de formater
+votre description. Voici les étapes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;S'il s'agit d'une édition de votre description, récupérer le code HTML sur là
+   page de votre cache (cliquez sur Éditer, en haut à droite de la page de la
+   cache et copiez le code HTML). Cliquez sur &lt;em&gt;Source&lt;/em&gt; sur la page de l'éditeur
+   et collez le code. Cliquez de nouveau sur &lt;em&gt;Source&lt;/em&gt; pour avoir la vue formatée
+   de votre description.&lt;/li&gt;
+&lt;li&gt;Formatez le texte à votre guise.&lt;/li&gt;
+&lt;li&gt;Cliquez sur &lt;em&gt;Source&lt;/em&gt; et copier le code HTML.&lt;/li&gt;
+&lt;li&gt;Collez le code dans l'encadré Description longue, sur la page d'édition de la
+   cache.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://france-geocaching.fr/forum/editor.php"&gt;Éditeur HTML du site France Geocaching&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html"&gt;Ajouter une image dans la description&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=79"&gt;HTML In Geocache Descriptions&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
@@ -44,7 +66,8 @@ section "Coordonnées" et modifiez vos coordonnées.&lt;/p&gt;
 &lt;h4&gt;Cache publiée&lt;/h4&gt;
 &lt;p&gt;Pour cela, rendez-vous sur la page de la cache, cliquez sur "&lt;em&gt;Enregistrer votre
 visite&lt;/em&gt;" et dans le champ "&lt;em&gt;Type de log&lt;/em&gt;", sélectionnez "&lt;em&gt;Update Coordinates&lt;/em&gt;".
-Indiquez les nouvelles coordonnées et envoyez le log.&lt;/p&gt;
+Indiquez les nouvelles coordonnées et envoyez le log. Pour un déplacement
+dépassant 161 mètres, il vous faut prendre contact avec un reviewer.&lt;/p&gt;
 &lt;h3&gt;Modifier les coordonnées d'un waypoint&lt;/h3&gt;
 &lt;p&gt;Pour modifier les coordonnées d'un waypoint, il vous faut cliquer sur
 "&lt;em&gt;Waypoints&lt;/em&gt;" dans le menu en haut à gauche de la page de cache. Une fois sur la
@@ -62,8 +85,8 @@ premier log de la cache), en lui indiquant :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Vérifications du reviewer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Toutes&lt;/strong&gt; les modifications (même celles qui n'excèdent pas 161 mètres) sont
-sujettes à une vérification par un reviewer. En effet, cela nous permet qu'une
-cache satisfait encore les conditions de proximité.&lt;/p&gt;
+sujettes à une vérification par un reviewer. En effet, cela nous permet de
+vérifier qu'une cache satisfait encore les conditions de proximité.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html"&gt;Les formats de coordonnées&lt;/a&gt;&lt;/li&gt;
@@ -87,12 +110,12 @@ coordonnées de vos caches.&lt;/p&gt;
 &lt;p&gt;Pour obtenir des coordonnées plus précises, vous pouvez :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;relever plusieurs fois les coordonnées ;&lt;/li&gt;
-&lt;li&gt;s'éloigner de l'emplacement avec le récepteur et revenir ;&lt;/li&gt;
+&lt;li&gt;vous éloigner de l'emplacement avec le récepteur et revenir ;&lt;/li&gt;
 &lt;li&gt;faire des relevés à des jours/conditions météo différents ;&lt;/li&gt;
 &lt;li&gt;retenir comme coordonnées finales une moyenne des valeurs relevées.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Des GPS de randonnées proposent même des fonctions de relevés de coordonnées
-GPS automatiques, où il se charge de faire les moyennes à différents intervalles.&lt;/p&gt;
+GPS automatiques, où il se charge de faire la moyenne de plusieurs relevés.&lt;/p&gt;
 &lt;h3&gt;Précision d'un GPS&lt;/h3&gt;
 &lt;p&gt;Au mieux, un GPS est de 3 à 5 mètres, il n'est donc pas nécessaire de crier au
 scandale car votre GPS vous indique être à 5 mètres de la boite :-)&lt;/p&gt;
@@ -112,7 +135,9 @@ recherche.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;Vérifier ses coordonnées&lt;/h3&gt;
 &lt;p&gt;Utilisez des logiciels pour vérifier vos coordonnées : Google Maps (vue
-satellite), Street View, etc.&lt;/p&gt;
+satellite), Street View, etc. Il est &lt;strong&gt;important&lt;/strong&gt; de vérifier les coordonnées
+avant de soumettre la cache, cela évitera des échanges inutiles en cas de
+mauvaise saisie.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;

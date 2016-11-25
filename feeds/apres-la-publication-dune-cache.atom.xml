@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Après la publication d'une cache</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/apres-la-publication-dune-cache.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Adopter une cache</title><link href="http://driquet.github.io/faq-reviewing/adopter-une-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/adopter-une-cache.html</id><summary type="html">&lt;p&gt;Le processus d'adoption est nécessairement à l'initiative du propriétaire de la
+cache, sans exception.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Processus d'adoption (pour le propriétaire de la cache)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Rendez-vous sur la page de l'&lt;a href="http://www.geocaching.com/adopt/"&gt;outil
+   d'adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Entrez le code GC de la cache et cliquez sur &lt;em&gt;Lookup&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Entrez le nom d'utilisateur du futur propriétaire et cliquez sur &lt;em&gt;Go&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Cliquez sur &lt;em&gt;Send Adoption Request&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note : Les caches archivées ou caches dont le type n'est plus publiable
+(virtuelles, webcam, etc.) ne peuvent pas être adoptées.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Processus d'adoption (pour le futur propriétaire de la cache)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Une fois que le propriétaire de la cache a envoyé la demande d'adoption, vous
+   allez recevoir un mail.&lt;/li&gt;
+&lt;li&gt;Accepter la demande d'adoption en vous rendant sur la page de l'&lt;a href="http://www.geocaching.com/adopt/"&gt;outil
+   d'adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;La propriété de la cache vous est transféré.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note : Le nom du propriétaire de la cache ne sera pas changé automatiquement,
+mais le lien pointera vers le nouveau propriétaire. Généralement, les
+propriétaires de caches adoptées modifie le nom du propriétaire par quelque
+chose comme "&lt;em&gt;Placé par X et adopté par Y&lt;/em&gt;".&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Voir aussi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.geocaching.com/adopt/"&gt;Outil
+   d'adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=54"&gt;Adopt or transfer a
+  geocache&lt;/a&gt; (help
+  center)&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="adoption"></category></entry></feed>
