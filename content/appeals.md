@@ -10,8 +10,8 @@ pourquoi, en s'appuyant sur les guidelines.
 
 À ce stade de la publication, le reviewer ne peut procéder à la publication de
 votre cache, car il est mandaté pour appliquer à la lettre les règles fixées par
-Groundspeak. C'est donc à Groundspeak de décider si votre projet est une
-exception à la règle et non au reviewer.
+Groundspeak. C'est donc à Groundspeak, et non au reviewer, de décider si votre
+projet est une exception à la règle.
 
 Pour cela, nous vous invitons à prendre contact avec Groundspeak pour qu'ils se
 chargent de décider de la possibilité ou non de publier votre cache.

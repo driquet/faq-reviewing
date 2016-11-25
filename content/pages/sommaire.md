@@ -11,26 +11,26 @@ différentes catégories.
 * Les caches de vacances
 
 ### Publication d'une cache
-* [Mon idée de cache est-elle publiable ?]({filename}/publishable_cache.md)
+* [Ma cache est-elle publiable ?]({filename}/cache_is_publishable.md)
 * [Soumettre une cache à la publication]({filename}/submit_cache.md)
 * Soumettre une série de caches
 * Soumettre un event à la publication
 * La notion de réservation d'un emplacement
-* Vérifier la disponibilité d'un emplacement
 * [Communication avec le reviewer]({filename}/communication_reviewer.md)
 * Les différents types de waypoints
 * Conflit de proximité entre différents éléments physiques
 * Les emplacements à éviter
 * [Faire appel de la décision]({filename}/appeals.md)
 * [Le reviewer ne répond pas]({filename}/silent_reviewer.md)
-* [Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée]({filename}/refusal_similar_cache.md)
+* [Refus de publication alors qu'une cache similaire a déjà été publiée]({filename}/refusal_similar_cache.md)
 
 ### Après la publication d'une cache
 * Archivage d'une cache
 * Maintenance d'une cache
-* Adopter une cache
+* [Adopter une cache]({filename}/adopt_cache.md)
 * Suivi des reviewers
 
 ### Divers
 * [Les formats de coordonnées]({filename}/coordinates_format.md)
-* Qui sont les reviewers ? Comment le devenir ?
+* [Qui sont les reviewers ? Comment le devenir ?]({filename}/who_reviewers.md)
+* Comment régler un différend entre géocacheurs ?

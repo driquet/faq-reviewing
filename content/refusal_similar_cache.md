@@ -1,10 +1,10 @@
-Title: Refus de publication alors qu'une cache similaire à la mienne a déjà été publiée
+Title: Refus de publication alors qu'une cache similaire a déjà été publiée
 Date: 2016-10-05 12:00
 Category: Publication d'une cache
 Tags: reviewer, guidelines
 
-Il arrive que parfois une cache n'est pas publiable. Dans ces cas là, le
-reviewer va vous expliquer pourquoi en s'appuyant sur les guidelines. Cette
+Il arrive parfois qu'une cache ne soit pas publiable. Dans ces cas là, le
+reviewer vous expliquera pourquoi en s'appuyant sur les guidelines. Cette
 décision peut vous sembler incohérente, car vous avez rencontré une cache
 similaire. Ce cas de figure peut se présenter dans plusieurs situations :
 
@@ -22,3 +22,4 @@ trouver une autre configuration qui serait acceptable vis-à-vis des guidelines.
 
 ### Voir aussi
 * [Faire appel de la décision]({filename}/appeals.md)
+* [Introduction des Guidelines](https://www.geocaching.com/about/guidelines.aspx)

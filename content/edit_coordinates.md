@@ -19,7 +19,8 @@ section "Coordonnées" et modifiez vos coordonnées.
 
 Pour cela, rendez-vous sur la page de la cache, cliquez sur "*Enregistrer votre
 visite*" et dans le champ "*Type de log*", sélectionnez "*Update Coordinates*".
-Indiquez les nouvelles coordonnées et envoyez le log.
+Indiquez les nouvelles coordonnées et envoyez le log. Pour un déplacement
+dépassant 161 mètres, il vous faut prendre contact avec un reviewer.
 
 ### Modifier les coordonnées d'un waypoint
 Pour modifier les coordonnées d'un waypoint, il vous faut cliquer sur
@@ -39,8 +40,8 @@ premier log de la cache), en lui indiquant :
 
 ### Vérifications du reviewer
 **Toutes** les modifications (même celles qui n'excèdent pas 161 mètres) sont
-sujettes à une vérification par un reviewer. En effet, cela nous permet qu'une
-cache satisfait encore les conditions de proximité.
+sujettes à une vérification par un reviewer. En effet, cela nous permet de
+vérifier qu'une cache satisfait encore les conditions de proximité.
 
 ### Voir aussi
 * [Les formats de coordonnées]({filename}/coordinates_format.md)

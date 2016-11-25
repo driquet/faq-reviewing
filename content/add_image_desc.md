@@ -1,7 +1,7 @@
 Title: Ajouter une image dans la description
 Date: 2016-10-05 12:00
 Category: Création, modification d'une cache
-Tags: création, image
+Tags: création, image, html
 
 ### Importer votre image
 

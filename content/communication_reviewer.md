@@ -46,3 +46,4 @@ publication.
 * [Soumettre une cache à la publication]({filename}/submit_cache.md)
 * [Le reviewer ne répond pas]({filename}/silent_reviewer.md)
 * [Working with Reviewer: Communication](https://support.groundspeak.com/index.php?pg=kb.page&id=74) (help center)
+* [Contact your local reviewer](http://support.groundspeak.com/index.php?pg=kb.page&id=200) (help center)

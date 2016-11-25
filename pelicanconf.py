@@ -40,7 +40,7 @@ NEST_HEADER_IMAGES = ''
 NEST_HEADER_LOGO = '/images/logo.gif'
 # Footer
 NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
-NEST_SITEMAP_MENU = [('Archives', '/archives.html'),('Catégories', '/categories.html'), ('Tags','/tags.html'), ('Auteurs','/authors.html')]
+NEST_SITEMAP_MENU = [('À propos', '/pages/a-propos.html'), ('Archives', '/archives.html'),('Catégories', '/categories.html'), ('Tags','/tags.html'), ('Auteurs','/authors.html')]
 NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
 NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'

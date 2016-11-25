@@ -16,12 +16,12 @@ coordonnées de vos caches.
 Pour obtenir des coordonnées plus précises, vous pouvez :
 
 * relever plusieurs fois les coordonnées ;
-* s'éloigner de l'emplacement avec le récepteur et revenir ;
+* vous éloigner de l'emplacement avec le récepteur et revenir ;
 * faire des relevés à des jours/conditions météo différents ;
 * retenir comme coordonnées finales une moyenne des valeurs relevées.
 
 Des GPS de randonnées proposent même des fonctions de relevés de coordonnées
-GPS automatiques, où il se charge de faire les moyennes à différents intervalles.
+GPS automatiques, où il se charge de faire la moyenne de plusieurs relevés.
 
 ### Précision d'un GPS
 Au mieux, un GPS est de 3 à 5 mètres, il n'est donc pas nécessaire de crier au
@@ -42,7 +42,9 @@ peuvent influer sur la précision du GPS :
 
 ### Vérifier ses coordonnées
 Utilisez des logiciels pour vérifier vos coordonnées : Google Maps (vue
-satellite), Street View, etc.
+satellite), Street View, etc. Il est **important** de vérifier les coordonnées
+avant de soumettre la cache, cela évitera des échanges inutiles en cas de
+mauvaise saisie.
 
 ### Voir aussi
 * [Modifier les coordonnées d'une cache]({filename}/edit_coordinates.md)
