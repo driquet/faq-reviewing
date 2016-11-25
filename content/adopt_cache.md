@@ -1,5 +1,5 @@
 Title: Adopter une cache
-Date: 2016-10-05 12:00
+Date: 2016-12-01 12:00
 Category: Après la publication d'une cache
 Tags: adoption
 

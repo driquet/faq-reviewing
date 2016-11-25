@@ -1,5 +1,5 @@
 Title: Soumettre une cache à la publication
-Date: 2016-10-05 12:00
+Date: 2016-12-01 12:00
 Category: Publication d'une cache
 
 ### Soumettre une cache à la publication

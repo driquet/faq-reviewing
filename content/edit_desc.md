@@ -1,5 +1,5 @@
 Title: Éditer la description d'une cache
-Date: 2016-10-05 12:00
+Date: 2016-12-01 12:00
 Category: Création, modification d'une cache
 Tags: création, html, éditeur
 
