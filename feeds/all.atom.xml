@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/all.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-10-05T12:00:00+02:00</updated><entry><title>Adopter une cache</title><link href="http://driquet.github.io/faq-reviewing/adopter-une-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/adopter-une-cache.html</id><summary type="html">&lt;p&gt;Le processus d'adoption est nécessairement à l'initiative du propriétaire de la
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/all.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-12-01T12:00:00+01:00</updated><entry><title>Adopter une cache</title><link href="http://driquet.github.io/faq-reviewing/adopter-une-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/adopter-une-cache.html</id><summary type="html">&lt;p&gt;Le processus d'adoption est nécessairement à l'initiative du propriétaire de la
 cache, sans exception.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Processus d'adoption (pour le propriétaire de la cache)&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -34,7 +34,7 @@ chose comme "&lt;em&gt;Placé par X et adopté par Y&lt;/em&gt;".&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=54"&gt;Adopt or transfer a
   geocache&lt;/a&gt; (help
   center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="adoption"></category></entry><entry><title>Ajouter une image dans la description</title><link href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="adoption"></category></entry><entry><title>Ajouter une image dans la description</title><link href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette étape est facultative. Elle permet de stocker sur les serveurs de
 geocaching.com votre image. Si votre image est déjà en ligne (autrement dit,
@@ -61,7 +61,7 @@ Plus d'informations sur la page de l'article "&lt;a href="http://driquet.github.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=59"&gt;Display an Image in a Geocache Description&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="image"></category><category term="html"></category></entry><entry><title>Communication avec le reviewer</title><link href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/communication-avec-le-reviewer.html</id><summary type="html">&lt;h3&gt;Avant la soumission de votre cache&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="création"></category><category term="image"></category><category term="html"></category></entry><entry><title>Communication avec le reviewer</title><link href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/communication-avec-le-reviewer.html</id><summary type="html">&lt;h3&gt;Avant la soumission de votre cache&lt;/h3&gt;
 &lt;p&gt;Dans le processus de publication d'une cache, il vous est possible de poster une
 &lt;em&gt;Reviewer Note&lt;/em&gt;, afin d'expliquer votre projet de cache. Profitez-en pour
 détailler l'emplacement de votre boite, la méthode de résolution de votre cache
@@ -102,7 +102,7 @@ publication.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html"&gt;Le reviewer ne répond pas&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=74"&gt;Working with Reviewer: Communication&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=200"&gt;Contact your local reviewer&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Éditer la description d'une cache</title><link href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
+&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Éditer la description d'une cache</title><link href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
 possible de formater votre texte en HTML, de manière à le rendre plus lisible.
 Malheureusement, l'éditeur qui vous permet de formater la description n'est
 disponible qu'a là création de la cache.&lt;/p&gt;
@@ -129,7 +129,7 @@ votre description. Voici les étapes :&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://france-geocaching.fr/forum/editor.php"&gt;Éditeur HTML du site France Geocaching&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html"&gt;Ajouter une image dans la description&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=79"&gt;HTML In Geocache Descriptions&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Faire appel de la décision</title><link href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/faire-appel-de-la-decision.html</id><summary type="html">&lt;h3&gt;Cache ne respectant pas les guidelines&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Faire appel de la décision</title><link href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/faire-appel-de-la-decision.html</id><summary type="html">&lt;h3&gt;Cache ne respectant pas les guidelines&lt;/h3&gt;
 &lt;p&gt;Lors du processus du publication d'une cache, le reviewer peut être amené à
 refuser votre projet de cache. Si cela arrive, ce dernier va vous expliquer
 pourquoi, en s'appuyant sur les guidelines.&lt;/p&gt;
@@ -164,7 +164,7 @@ catégorisant le message comme &lt;em&gt;Appeals&lt;/em&gt;.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/communication-avec-le-reviewer.html"&gt;Communication avec le reviewer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=476"&gt;Submit an appeal&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=74"&gt;Working with Reviewer: Communication&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category><category term="Groundspeak"></category></entry><entry><title>Le reviewer ne répond pas</title><link href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/le-reviewer-ne-repond-pas.html</id><summary type="html">&lt;h3&gt;Délai de publication d'une cache&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category><category term="Groundspeak"></category></entry><entry><title>Le reviewer ne répond pas</title><link href="http://driquet.github.io/faq-reviewing/le-reviewer-ne-repond-pas.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/le-reviewer-ne-repond-pas.html</id><summary type="html">&lt;h3&gt;Délai de publication d'une cache&lt;/h3&gt;
 &lt;p&gt;Chaque cache soumise à la publication est étudiée par un reviewer bénévole.
 Étant donné la charge de travail que cela représente (50 000 nouvelles caches en
 2015 par exemple), le délai de premier examen de votre cache est fixé à 7 jours
@@ -190,7 +190,7 @@ pas que nous sommes bénévoles, faites donc preuve de patience.&lt;/p&gt;
   center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://project-gc.com/Statistics/Overview"&gt;Statistiques de publication de
   caches&lt;/a&gt; (Project-GC)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
+&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
 &lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
 Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
 récepteur. Cela permet de localiser une personne suivant sa latitude et sa
@@ -209,7 +209,7 @@ coordonnées supportés par le site geocaching.com.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=207"&gt;Convert Decimal Coordinates to DDD MM.MMM (help
   center)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://boulter.com/gps/"&gt;Boulter (Convertisseur en ligne)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Ma cache est-elle publiable ?</title><link href="http://driquet.github.io/faq-reviewing/ma-cache-est-elle-publiable.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/ma-cache-est-elle-publiable.html</id><summary type="html">&lt;p&gt;Ni les reviewers, ni Groundspeak, ne peuvent pré-approuver votre cache.
+&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Ma cache est-elle publiable ?</title><link href="http://driquet.github.io/faq-reviewing/ma-cache-est-elle-publiable.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/ma-cache-est-elle-publiable.html</id><summary type="html">&lt;p&gt;Ni les reviewers, ni Groundspeak, ne peuvent pré-approuver votre cache.
 Cependant, nous pouvons vous guider dans la réalisation de votre projet de
 cache.&lt;/p&gt;
 &lt;h3&gt;Disponibilité de l'emplacement&lt;/h3&gt;
@@ -250,7 +250,7 @@ pas :&lt;/p&gt;
   (help center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=464"&gt;Geocache Planning Map&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html"&gt;Qui sont les reviewers ? Comment le devenir ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category><category term="guidelines"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="reviewer"></category><category term="guidelines"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette méthode revient à modifier la position de l'icône de la cache sur la
 carte. Pour les caches de type mystère, multi, wherigo, etc., voir la
@@ -294,7 +294,7 @@ vérifier qu'une cache satisfait encore les conditions de proximité.&lt;/p&gt;
   geocache?&lt;/a&gt; (help
   center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=72"&gt;Edit, add, and delete waypoints&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Qui sont les reviewers ? Comment le devenir ?</title><link href="http://driquet.github.io/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html</id><summary type="html">&lt;p&gt;Les reviewers sont des bénévoles qui examinent les caches en attente de
+&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Qui sont les reviewers ? Comment le devenir ?</title><link href="http://driquet.github.io/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html</id><summary type="html">&lt;p&gt;Les reviewers sont des bénévoles qui examinent les caches en attente de
 publication. Ils ont une grande expérience du géocaching, en tant que trouveur
 et en tant que poseur.&lt;/p&gt;
 &lt;h3&gt;Composition de l'équipe des reviewers de French-Land&lt;/h3&gt;
@@ -331,7 +331,7 @@ ce mail arrive dans votre boite aux lettres :-)&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=278"&gt;Becoming a Community Volunteer
   Reviewer&lt;/a&gt; (help
   center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Refus de publication alors qu'une cache similaire a déjà été publiée</title><link href="http://driquet.github.io/faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-deja-ete-publiee.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-deja-ete-publiee.html</id><summary type="html">&lt;p&gt;Il arrive parfois qu'une cache ne soit pas publiable. Dans ces cas là, le
+&lt;/ul&gt;</summary><category term="reviewer"></category></entry><entry><title>Refus de publication alors qu'une cache similaire a déjà été publiée</title><link href="http://driquet.github.io/faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-deja-ete-publiee.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/refus-de-publication-alors-quune-cache-similaire-a-deja-ete-publiee.html</id><summary type="html">&lt;p&gt;Il arrive parfois qu'une cache ne soit pas publiable. Dans ces cas là, le
 reviewer vous expliquera pourquoi en s'appuyant sur les guidelines. Cette
 décision peut vous sembler incohérente, car vous avez rencontré une cache
 similaire. Ce cas de figure peut se présenter dans plusieurs situations :&lt;/p&gt;
@@ -350,7 +350,7 @@ trouver une autre configuration qui serait acceptable vis-à-vis des guidelines.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/faire-appel-de-la-decision.html"&gt;Faire appel de la décision&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.geocaching.com/about/guidelines.aspx"&gt;Introduction des Guidelines&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category><category term="guidelines"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
+&lt;/ul&gt;</summary><category term="reviewer"></category><category term="guidelines"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
 imprécision des coordonnées d'une cache. Voici quelques astuces pour relever les
 coordonnées de vos caches.&lt;/p&gt;
 &lt;h3&gt;Relever des coordonnées&lt;/h3&gt;
@@ -398,7 +398,7 @@ mauvaise saisie.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=673"&gt;How to get accurate
   coordinates&lt;/a&gt;
   (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="coordonnées"></category></entry><entry><title>Soumettre une cache à la publication</title><link href="http://driquet.github.io/faq-reviewing/soumettre-une-cache-a-la-publication.html" rel="alternate"></link><published>2016-10-05T12:00:00+02:00</published><updated>2016-10-05T12:00:00+02:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-10-05:faq-reviewing/soumettre-une-cache-a-la-publication.html</id><summary type="html">&lt;h3&gt;Soumettre une cache à la publication&lt;/h3&gt;
+&lt;/ul&gt;</summary><category term="création"></category><category term="coordonnées"></category></entry><entry><title>Soumettre une cache à la publication</title><link href="http://driquet.github.io/faq-reviewing/soumettre-une-cache-a-la-publication.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/soumettre-une-cache-a-la-publication.html</id><summary type="html">&lt;h3&gt;Soumettre une cache à la publication&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Les reviewers n'ont connaissance d'une cache à partir du moment où celle-ci a
 été soumise à la publication&lt;/strong&gt;. Avant cette opération, vous pouvez prendre le
 temps de modifier à votre guise le contenu de la cache.&lt;/p&gt;
