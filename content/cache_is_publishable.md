@@ -16,7 +16,8 @@ Pour cela, il vous faut suivre instructions suivantes :
 2. Ajouter les waypoints physiques et virtuels ;
 3. Ajouter une Reviewer Note en indiquant qu'il s'agit d'une simple vérification
    (par exemple "Ne pas publier mais vérifier les coordonnées") ;
-4. Soumettre la cache.
+4. Soumettre la cache ou envoyer un mail à un reviewer avec le code GC de la
+   cache.
 
 ### Concept de la cache
 Si vous souhaitez savoir si votre idée de cache est publiable, vous pouvez

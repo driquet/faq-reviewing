@@ -42,6 +42,9 @@ au travers de *Reviewer Note*. Cela facilite le suivi d'une cache. Une fois la
 cache publiée, contactez directement le reviewer qui s'est chargé de la
 publication.
 
+> Note 3 : Si votre concerne une cache en particulier, n'oubliez pas de donner
+> le code GC de celle-ci !
+
 ### Voir aussi
 * [Soumettre une cache à la publication]({filename}/submit_cache.md)
 * [Le reviewer ne répond pas]({filename}/silent_reviewer.md)

@@ -12,7 +12,8 @@ une fois que votre cache est soumise à la publication.
 ### Silence radio du reviewer
 Parfois, le reviewer ne répond pas. Il y plusieurs raisons possibles à cela :
 
-* le reviewer vous a posé une question et attend votre réponse ;
+* le reviewer vous a posé une question et attend votre réponse (vérifiez
+  régulièrement vos mails et les logs sur la page de la cache !) ;
 * le reviewer a oublié de mettre votre cache en suivi et n'est donc pas averti
   des nouvelles *reviewer notes* ajoutées sur la page ;
 * votre cache est désactivée et le reviewer ne perçoit plus la cache ;

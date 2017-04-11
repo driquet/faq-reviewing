@@ -32,9 +32,8 @@ L'équipe de reviewers est composée à ce jour de :
 La nomination de reviewer intervient dès lors que l'équipe en place considère
 que la charge de travail devient trop importante. Dans ces situations, elle
 prendra alors contact avec les personnes qui ont montré les qualités types d'un
-reviewer (bonne communication en français et en anglais, implication dans la
-communauté, bonne connaissance du jeu, etc.). Il vous suffit donc d'attendre que
-ce mail arrive dans votre boite aux lettres :-)
+reviewer. Il vous suffit donc d'attendre que ce mail arrive dans votre boite
+aux lettres :-)
 
 
 ### Voir aussi
