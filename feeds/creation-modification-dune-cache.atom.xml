@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Création, modification d'une cache</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/creation-modification-dune-cache.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-12-01T12:00:00+01:00</updated><entry><title>Ajouter une image dans la description</title><link href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Création, modification d'une cache</title><link href="https://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="https://driquet.github.io/faq-reviewing/feeds/creation-modification-dune-cache.atom.xml" rel="self"></link><id>https://driquet.github.io/faq-reviewing/</id><updated>2016-12-01T12:00:00+01:00</updated><entry><title>Ajouter une image dans la description</title><link href="https://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/ajouter-une-image-dans-la-description.html</id><summary type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cette étape est facultative. Elle permet de stocker sur les serveurs de
+geocaching.com votre image. Si votre image est déjà en ligne (autrement dit,
+vous avez déjà l'adresse url de l'image), passez à l'étape d'après.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sur la page de votre cache, dans l'encadré en haut à …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Importer votre image&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette étape est facultative. Elle permet de stocker sur les serveurs de
 geocaching.com votre image. Si votre image est déjà en ligne (autrement dit,
@@ -7,7 +13,7 @@ vous avez déjà l'adresse url de l'image), passez à l'étape d'après.&lt;/p&g
 &lt;/blockquote&gt;
 &lt;p&gt;Sur la page de votre cache, dans l'encadré en haut à droite, cliquez sur
 &lt;em&gt;«Importer des images&lt;/em&gt;».
-&lt;img src="http://driquet.github.io/faq-reviewing/images/import_image.png" alt="Drawing" style="width: 250px;"/&gt;
+&lt;img src="https://driquet.github.io/faq-reviewing/images/import_image.png" alt="Drawing" style="width: 250px;"/&gt;
 Vous serez invité à renseigner un titre et une description pour le fichier et il
 vous faudra désigner son emplacement sur votre ordinateur. Une fois que c'est
 fait, cliquez sur &lt;em&gt;«Upload»&lt;/em&gt;.  Visualisez votre image (clique droit sur l'image
@@ -21,12 +27,16 @@ balise de type image :&lt;/p&gt;
 
 
 &lt;p&gt;Pour intégrer l'image, une autre méthode consiste à utiliser des éditeurs HTML.
-Plus d'informations sur la page de l'article "&lt;a href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;".&lt;/p&gt;
+Plus d'informations sur la page de l'article "&lt;a href="https://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;".&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html"&gt;Éditer la description d'une cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=59"&gt;Display an Image in a Geocache Description&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="image"></category><category term="html"></category></entry><entry><title>Éditer la description d'une cache</title><link href="http://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
+&lt;/ul&gt;</content><category term="création"></category><category term="image"></category><category term="html"></category></entry><entry><title>Éditer la description d'une cache</title><link href="https://driquet.github.io/faq-reviewing/editer-la-description-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/editer-la-description-dune-cache.html</id><summary type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
+possible de formater votre texte en HTML, de manière à le rendre plus lisible.
+Malheureusement, l'éditeur qui vous permet de formater la description n'est
+disponible qu'a là création de la cache.&lt;/p&gt;
+&lt;p&gt;Plutôt que d'apprendre l'HTML …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Bien que le texte d'une description peut être écrit en texte brut, il vous est
 possible de formater votre texte en HTML, de manière à le rendre plus lisible.
 Malheureusement, l'éditeur qui vous permet de formater la description n'est
 disponible qu'a là création de la cache.&lt;/p&gt;
@@ -51,9 +61,17 @@ votre description. Voici les étapes :&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://france-geocaching.fr/forum/editor.php"&gt;Éditeur HTML du site France Geocaching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html"&gt;Ajouter une image dans la description&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/ajouter-une-image-dans-la-description.html"&gt;Ajouter une image dans la description&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=79"&gt;HTML In Geocache Descriptions&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="création"></category><category term="html"></category><category term="éditeur"></category></entry><entry><title>Modifier les coordonnées d'une cache</title><link href="https://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/modifier-les-coordonnees-dune-cache.html</id><summary type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cette méthode revient à modifier la position de l'icône de la cache sur la
+carte. Pour les caches de type mystère, multi, wherigo, etc., voir la
+prochaine section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Cache non publiée&lt;/h4&gt;
+&lt;p&gt;Pour modifier les coordonnés de votre cache, il vous faut cliquer sur "Éditer"
+en …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Modifier les coordonnées d'une cache&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette méthode revient à modifier la position de l'icône de la cache sur la
 carte. Pour les caches de type mystère, multi, wherigo, etc., voir la
@@ -89,15 +107,22 @@ sujettes à une vérification par un reviewer. En effet, cela nous permet de
 vérifier qu'une cache satisfait encore les conditions de proximité.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html"&gt;Les formats de coordonnées&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html"&gt;Les formats de coordonnées&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.geocaching.com/about/guidelines.aspx#cachesaturation"&gt;Les éléments physiques des différentes géocaches doivent être à au moins 0,10
   miles ou 161 mètres l'un de l'autre&lt;/a&gt; (guidelines)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=61"&gt;How do I update coordinates for my
   geocache?&lt;/a&gt; (help
   center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=72"&gt;Edit, add, and delete waypoints&lt;/a&gt; (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
+&lt;/ul&gt;</content><category term="coordonnées"></category></entry><entry><title>Relever les coordonnées de sa cache</title><link href="https://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/relever-les-coordonnees-de-sa-cache.html</id><summary type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
+imprécision des coordonnées d'une cache. Voici quelques astuces pour relever les
+coordonnées de vos caches.&lt;/p&gt;
+&lt;h3&gt;Relever des coordonnées&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Placer le récepteur GPS à l'endroit souhaité, de préférence dans un endroit
+   dégagé.&lt;/li&gt;
+&lt;li&gt;Attendre que la …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Il n'y a qu'un pas entre la trouvaille d'une cache et un DNF, à cause d'une
 imprécision des coordonnées d'une cache. Voici quelques astuces pour relever les
 coordonnées de vos caches.&lt;/p&gt;
 &lt;h3&gt;Relever des coordonnées&lt;/h3&gt;
@@ -140,9 +165,9 @@ avant de soumettre la cache, cela évitera des échanges inutiles en cas de
 mauvaise saisie.&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html"&gt;Les formats de coordonnées&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html"&gt;Les formats de coordonnées&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=673"&gt;How to get accurate
   coordinates&lt;/a&gt;
   (help center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="création"></category><category term="coordonnées"></category></entry></feed>
+&lt;/ul&gt;</content><category term="création"></category><category term="coordonnées"></category></entry></feed>

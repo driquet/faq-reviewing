@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Divers</title><link href="http://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="http://driquet.github.io/faq-reviewing/feeds/divers.atom.xml" rel="self"></link><id>http://driquet.github.io/faq-reviewing/</id><updated>2016-12-01T12:00:00+01:00</updated><entry><title>Les formats de coordonnées</title><link href="http://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foire aux Questions - Reviewing - Divers</title><link href="https://driquet.github.io/faq-reviewing/" rel="alternate"></link><link href="https://driquet.github.io/faq-reviewing/feeds/divers.atom.xml" rel="self"></link><id>https://driquet.github.io/faq-reviewing/</id><updated>2016-12-01T12:00:00+01:00</updated><entry><title>Les formats de coordonnées</title><link href="https://driquet.github.io/faq-reviewing/les-formats-de-coordonnees.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/les-formats-de-coordonnees.html</id><summary type="html">&lt;p&gt;Notre loisir se base sur la technologie
+&lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
+Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
+récepteur. Cela permet de localiser une personne suivant sa latitude et sa
+longitude selon des axes repères, tel que l'équateur.&lt;/p&gt;
+&lt;p&gt;De nombreux systèmes de coordonnées existent ; ici sont listés les …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Notre loisir se base sur la technologie
 &lt;a href="https://fr.wikipedia.org/wiki/Global_Positioning_System"&gt;GPS&lt;/a&gt; (Global
 Positioning System), qui permet d'établir la position d'un utilisateur muni d'un
 récepteur. Cela permet de localiser une personne suivant sa latitude et sa
@@ -13,12 +18,16 @@ coordonnées supportés par le site geocaching.com.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/modifier-les-coordonnees-dune-cache.html"&gt;Modifier les coordonnées d'une cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://driquet.github.io/faq-reviewing/relever-les-coordonnees-de-sa-cache.html"&gt;Relever les coordonnées de sa cache&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=207"&gt;Convert Decimal Coordinates to DDD MM.MMM (help
   center)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://boulter.com/gps/"&gt;Boulter (Convertisseur en ligne)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="coordonnées"></category></entry><entry><title>Qui sont les reviewers ? Comment le devenir ?</title><link href="http://driquet.github.io/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html</id><summary type="html">&lt;p&gt;Les reviewers sont des bénévoles qui examinent les caches en attente de
+&lt;/ul&gt;</content><category term="coordonnées"></category></entry><entry><title>Qui sont les reviewers ? Comment le devenir ?</title><link href="https://driquet.github.io/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html" rel="alternate"></link><published>2016-12-01T12:00:00+01:00</published><updated>2016-12-01T12:00:00+01:00</updated><author><name>The Publisher</name></author><id>tag:driquet.github.io,2016-12-01:/faq-reviewing/qui-sont-les-reviewers-comment-le-devenir.html</id><summary type="html">&lt;p&gt;Les reviewers sont des bénévoles qui examinent les caches en attente de
+publication. Ils ont une grande expérience du géocaching, en tant que trouveur
+et en tant que poseur.&lt;/p&gt;
+&lt;h3&gt;Composition de l'équipe des reviewers de French-Land&lt;/h3&gt;
+&lt;p&gt;Le French-Land est une la zone sur laquelle nous opérons, elle est composées de …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Les reviewers sont des bénévoles qui examinent les caches en attente de
 publication. Ils ont une grande expérience du géocaching, en tant que trouveur
 et en tant que poseur.&lt;/p&gt;
 &lt;h3&gt;Composition de l'équipe des reviewers de French-Land&lt;/h3&gt;
@@ -46,13 +55,12 @@ et en tant que poseur.&lt;/p&gt;
 &lt;p&gt;La nomination de reviewer intervient dès lors que l'équipe en place considère
 que la charge de travail devient trop importante. Dans ces situations, elle
 prendra alors contact avec les personnes qui ont montré les qualités types d'un
-reviewer (bonne communication en français et en anglais, implication dans la
-communauté, bonne connaissance du jeu, etc.). Il vous suffit donc d'attendre que
-ce mail arrive dans votre boite aux lettres :-)&lt;/p&gt;
+reviewer. Il vous suffit donc d'attendre que ce mail arrive dans votre boite
+aux lettres :-)&lt;/p&gt;
 &lt;h3&gt;Voir aussi&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=200"&gt;Contact your local reviewer&lt;/a&gt; (help center)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.groundspeak.com/index.php?pg=kb.page&amp;amp;id=278"&gt;Becoming a Community Volunteer
   Reviewer&lt;/a&gt; (help
   center)&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="reviewer"></category></entry></feed>
+&lt;/ul&gt;</content><category term="reviewer"></category></entry></feed>
